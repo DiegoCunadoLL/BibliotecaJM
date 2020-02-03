@@ -15,6 +15,7 @@ namespace BibliotecaJM
         public FM_Listados()
         {
             InitializeComponent();
+
         }
 
         public FM_Listados(UsuarioActual usuarioActual)
